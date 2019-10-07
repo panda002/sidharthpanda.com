@@ -1,0 +1,6 @@
+markdown: redcarpet
+baseurl: /sidharthpanda.com
+exclude: [READMD.md,vendor]
+
+sass:
+  style: compressed
