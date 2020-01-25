@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+article, aside, footer, header, main, nav, section {
+    display: block;
+}
+
+
+#social {
+    position: absolute;
+    top: 5em;
+    margin-left: 1200px;
+    alignment: right;
+}
+
+html, body, h1, h2, h3, ul, li, a, p,
+article, aside, footer, header, main, nav, section {
+    padding: 0;
+    padding: 0;
+	height: 100%;
+}
+
+.banner {
+    margin-left: 60px;
+    margin-right: 50px;
+    alignment: center;
+    float: left;
+    background-color: olivedrab;
+    width: 90%;
+    height: 50%;
+}
+
+
+body {
+    width: 90%;
+    background-color: beige;
+    font-family: Calibri;
+    font-size: 15px;
+}
+
+.main-content {
+
+    text-align: center;
+    margin-left: 100px;
+    clear: both;
+    width: 90%;
+
+}
+
+li a {
+    align-self: center;
+}
+
+li {
+    float: right;
+    display: inline;
+}
+
+aside {
+    background-color: aquamarine;
+    float: right;
+    margin-right: 200px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 80%;
+	height: 10rem;            /* Footer height */
+    background-color: slategrey;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 80px;
+}
+
+.column1 {
+    width: 500px;
+}
+
+.column1,
+.column2,
+.column3,
+.column4 {
+    width: 500px;
+}
+
+.column1,
+.column2,
+.column3 {
+    float: left;
+    margin-right: 24px;
+}
+
+.column4 {
+    float: right;
+}
+
+.container {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+#page {
+    overflow: hidden;
+    padding: 3em 0em 5em 0em;
+}
+
+
+#page .column1 {
+    width: 380px;
+}
+
+
+.table {
+
+    border-collapse: collapse;
+    text-align: center;
+    padding-left: 600px;
+
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+ul {
+    margin-top: 0px;
+
+}
