@@ -41,7 +41,7 @@ h5,
 h6 {
   font-family: "Rubik", sans-serif;
   font-weight: 500;
-  color: #000000; }
+  color: #777777; }
 
 .list {
   list-style: none;
@@ -229,7 +229,7 @@ button:focus {
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 14px/100px "Rubik", sans-serif;
         text-transform: uppercase;
-        color: #000000;
+        color: #777777;
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
@@ -282,7 +282,7 @@ button:focus {
             transition: all 0.4s linear; }
             .header_area .navbar .nav .nav-item.submenu ul .nav-item .nav-link {
               line-height: 45px;
-              color: #000000;
+              color: #777777;
               padding: 0px 30px;
               transition: all 150ms linear;
               display: block;
@@ -332,7 +332,7 @@ button:focus {
       display: none; }
   .header_area.white_menu.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
     line-height: 70px;
-    color: #000000; }
+    color: #777777; }
 
 .owl-carousel.off {
   display: -ms-flexbox;
@@ -378,7 +378,7 @@ button:focus {
           position: absolute;
           top: 50%;
           left: 23%;
-          background: #000000; }
+          background: #777777; }
           @media (max-width: 575px) {
             .home_banner_area .banner_inner .banner_content h3:after {
               display: none; } }
@@ -475,7 +475,7 @@ button:focus {
   font-size: 13px;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
-  color: #000000;
+  color: #777777;
   line-height: 34px;
   display: inline-block; }
   .blog_btn:hover {
@@ -486,7 +486,7 @@ button:focus {
 .white_bg_btn {
   background: #fff;
   display: inline-block;
-  color: #000000;
+  color: #777777;
   line-height: 40px;
   padding: 0px 28px;
   font-size: 14px;
@@ -547,7 +547,7 @@ button:focus {
   .causes_item .causes_text {
     padding: 30px 35px 40px 30px; }
     .causes_item .causes_text h4 {
-      color: #000000;
+      color: #777777;
       font-family: "Roboto", sans-serif;
       font-size: 18px;
       font-weight: 600;
@@ -576,7 +576,7 @@ button:focus {
       border-color: #eeeeee;
       background: #fff;
       font-size: 14px;
-      color: #000000; }
+      color: #777777; }
 
 /* End Causes Area css
 ============================================================================================ */
@@ -610,7 +610,7 @@ button:focus {
   display: inline-block;
   padding: 1px 18px;
   text-align: center;
-  color: #000000; }
+  color: #777777; }
   .tags .tag_btn:before {
     background: #4458dc; }
   .tags .tag_btn + .tag_btn {
@@ -672,7 +672,7 @@ button:focus {
     padding-bottom: 20px; }
     .blog_info .post_tag a {
       font: 300 14px/21px "Roboto", sans-serif;
-      color: #000000; }
+      color: #777777; }
       .blog_info .post_tag a:hover {
         color: #777777; }
       .blog_info .post_tag a.active {
@@ -684,7 +684,7 @@ button:focus {
     padding-bottom: 12px;
     display: inline-block; }
     .blog_info .blog_meta li a i {
-      color: #000000;
+      color: #777777;
       font-size: 16px;
       font-weight: 600;
       padding-left: 15px;
@@ -703,7 +703,7 @@ button:focus {
   .blog_details h2 {
     font-size: 24px;
     line-height: 36px;
-    color: #000000;
+    color: #777777;
     font-weight: 600;
     transition: all 0.3s linear; }
     .blog_details h2:hover {
@@ -715,7 +715,7 @@ button:focus {
   font-size: 14px;
   line-height: 36px;
   display: inline-block;
-  color: #000000;
+  color: #777777;
   font-weight: 500;
   padding: 0px 30px;
   background: #fff; }
@@ -776,7 +776,7 @@ button:focus {
     border: 0px;
     box-shadow: none;
     font-size: 14px;
-    color: #000000;
+    color: #777777;
     font-weight: 600;
     padding: 0px;
     top: 50%;
@@ -791,7 +791,7 @@ button:focus {
     .blog_right_sidebar .author_widget h4 {
       font-size: 18px;
       line-height: 20px;
-      color: #000000;
+      color: #777777;
       margin-bottom: 5px;
       margin-top: 30px; }
     .blog_right_sidebar .author_widget p {
@@ -800,7 +800,7 @@ button:focus {
       padding: 7px 0px 15px; }
       .blog_right_sidebar .author_widget .social_icon a {
         font-size: 14px;
-        color: #000000;
+        color: #777777;
         transition: all 0.2s linear; }
         .blog_right_sidebar .author_widget .social_icon a + a {
           margin-left: 20px; }
@@ -813,7 +813,7 @@ button:focus {
     .blog_right_sidebar .popular_post_widget .post_item .media-body h3 {
       font-size: 14px;
       line-height: 20px;
-      color: #000000;
+      color: #777777;
       margin-bottom: 4px;
       transition: all 0.3s linear; }
       .blog_right_sidebar .popular_post_widget .post_item .media-body h3:hover {
@@ -892,7 +892,7 @@ button:focus {
       padding: 0px 13px;
       margin-bottom: 8px;
       transition: all 0.3s ease 0s;
-      color: #000000;
+      color: #777777;
       font-size: 12px; }
       .blog_right_sidebar .tag_cloud_widget ul li a:hover {
         color: #fff; }
@@ -982,12 +982,12 @@ button:focus {
   .single-post-area .navigation-area h4 {
     font-size: 18px;
     line-height: 25px;
-    color: #000000; }
+    color: #777777; }
   .single-post-area .navigation-area .nav-left {
     text-align: left; }
     .single-post-area .navigation-area .nav-left .thumb {
       margin-right: 20px;
-      background: #000; }
+      background: #777777; }
       .single-post-area .navigation-area .nav-left .thumb img {
         -webkit-transition: all 0.4s ease 0s;
         -moz-transition: all 0.4s ease 0s;
@@ -1011,7 +1011,7 @@ button:focus {
     text-align: right; }
     .single-post-area .navigation-area .nav-right .thumb {
       margin-left: 20px;
-      background: #000; }
+      background: #777777; }
       .single-post-area .navigation-area .nav-right .thumb img {
         -webkit-transition: all 0.4s ease 0s;
         -moz-transition: all 0.4s ease 0s;
@@ -1043,13 +1043,13 @@ button:focus {
   .comments-area h4 {
     text-align: center;
     margin-bottom: 50px;
-    color: #000000;
+    color: #777777;
     font-size: 18px; }
   .comments-area h5 {
     font-size: 16px;
     margin-bottom: 0px; }
   .comments-area a {
-    color: #000000; }
+    color: #777777; }
   .comments-area .comment-list {
     padding-bottom: 48px; }
     .comments-area .comment-list:last-child {
@@ -1074,7 +1074,7 @@ button:focus {
     margin-bottom: 0px; }
   .comments-area .btn-reply {
     background-color: #fff;
-    color: #000000;
+    color: #777777;
     border: 1px solid #eee;
     padding: 2px 18px;
     font-size: 12px;
@@ -1100,7 +1100,7 @@ button:focus {
     margin-bottom: 50px;
     font-size: 18px;
     line-height: 22px;
-    color: #000000; }
+    color: #777777; }
   .comment-form .name {
     padding-left: 0px; }
     @media (max-width: 767px) {
@@ -1168,9 +1168,9 @@ button:focus {
     color: "Roboto", sans-serif;
     font-weight: bold;
     margin-bottom: 0px;
-    color: #000000; }
+    color: #777777; }
     .contact_info .info_item h6 a {
-      color: #000000; }
+      color: #777777; }
   .contact_info .info_item p {
     font-size: 14px;
     line-height: 24px;
@@ -1275,10 +1275,10 @@ button:focus {
 /*==============Elements Button Area css ================*/
 .elements_button .title_color {
   margin-bottom: 30px;
-  color: #000000; }
+  color: #777777; }
 
 .title_color {
-  color: #000000; }
+  color: #777777; }
 
 .button-group-area {
   margin-top: 15px; }
@@ -1290,7 +1290,7 @@ button:focus {
     margin-right: 10px; }
   .button-group-area .link {
     text-decoration: underline;
-    color: #000000;
+    color: #777777;
     background: transparent; }
     .button-group-area .link:hover {
       color: #fff; }
@@ -2139,7 +2139,7 @@ h6 {
   border: 1px solid #f1f1f1; }
 
 .single-defination h4 {
-  color: #000000; }
+  color: #777777; }
 
 .primary-checkbox input:checked + label {
   background: url(../img/elements/primary-check.png) no-repeat center center/cover;
@@ -2485,7 +2485,7 @@ h6 {
               font-weight: 500;
               color: #b3b3b3; }
             .about-info .wrap .year {
-              color: #000; }
+              color: #777777; }
         
         .intro-heading {
           margin-bottom: 3em;
@@ -2510,7 +2510,7 @@ h6 {
             font-weight: 600;
             line-height: 1.5;
             margin-bottom: 1.5em;
-            color: #000;
+            color: #777777;
             position: relative; }
             @media screen and (max-width: 768px) {
               .intro-heading h2 {
@@ -2521,7 +2521,7 @@ h6 {
             font-size: 12px;
             letter-spacing: 4px;
             margin-bottom: 30px;
-            color: #000;
+            color: #777777;
             font-weight: 700;
             text-transform: uppercase;
             position: relative; }
@@ -2533,7 +2533,7 @@ h6 {
               content: '';
               width: 10px;
               height: 1px;
-              background: #000;
+              background: #777777;
               margin: 0 auto;
               -ms-transform: skewY(45deg);
               /* IE 9 */
@@ -2630,7 +2630,7 @@ h6 {
               margin-bottom: 20px; }
               .work-entry-flex .text-inner .tag span {
                 text-transform: uppercase;
-                color: #000;
+                color: #777777;
                 letter-spacing: 4px;
                 font-size: 14px; }
             .work-entry-flex .text-inner .btn-view {
@@ -2808,7 +2808,7 @@ h6 {
     z-index: 9; }
   .client-info .smll {
     text-align: left;
-    color: #000000;
+    color: #777777;
     font-family: "Rubik", sans-serif;
     font-size: 20px;
     margin-left: 20px; }
@@ -2831,7 +2831,7 @@ h6 {
   .call-now span {
     font-size: 60px;
     font-weight: 700;
-    color: #000000; }
+    color: #777777; }
 
 /* End Brand Area css
 ============================================================================================ */
@@ -2881,7 +2881,7 @@ h6 {
       font-size: 20px;
       margin-bottom: 0px; }
       .portfolio_box .short_info h4 a {
-        color: #000000; }
+        color: #777777; }
 
 .single_portfolio {
   position: relative; }
@@ -2947,7 +2947,7 @@ h6 {
     font-size: 14px; }
     .portfolio_details_inner .portfolio_right_text .list li span {
       font-family: "Rubik", sans-serif;
-      color: #000000;
+      color: #777777;
       font-size: 16px;
       font-weight: 500;
       width: 97px;
@@ -3144,7 +3144,7 @@ h6 {
     margin-bottom: 23px; }
 
   .header_area .navbar {
-    background: #000; }
+    background: #777777; }
 
   .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
     opacity: 1; }
@@ -3442,8 +3442,8 @@ h6 {
   ============================================================================================ */
   .home_banner_area .banner_inner .banner_content {
     padding: 15px 15px;
-    margin-top: 0px;
-    alignment: left;}
+    margin-top: 0px; 
+  }
 
   .home_banner_area .banner_inner .banner_content h3 {
     font-size: 24px;
@@ -3505,7 +3505,7 @@ h6 {
     text-align: center; }
     .footer_area .footer_logo h4 {
       font-size: 20px;
-      color: #000000;
+      color: #777777;
       margin-top: 35px;
       text-transform: uppercase; }
   .footer_area .footer_social {
