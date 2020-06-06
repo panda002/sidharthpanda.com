@@ -3441,11 +3441,14 @@ h6 {
   /* Home Banner Area css
   ============================================================================================ */
   .home_banner_area .banner_inner .banner_content {
-    padding: 30px 15px;
-    margin-top: 0px; }
+    padding: 15px 15px;
+    margin-top: 0px;
+    alignment: left;}
 
   .home_banner_area .banner_inner .banner_content h3 {
-    font-size: 24px; }
+    font-size: 24px;
+    alignment: left;
+  }
 
   /* End Home Banner Area css
   ============================================================================================ */
