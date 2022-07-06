@@ -16,20 +16,19 @@ headerTemplate.innerHTML = `
 <div class="container-fluid justify-content-center text-center">
     <ul class="navbar-nav">
         <li class="nav-item">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="../index.html">Home</a>
         </li>
         <!-- li class="nav-item">
-            <a class="nav-link" href="inprogress.html">About</a>
+            <a class="nav-link" href="../inprogress.html">About</a>
         </li -->
         <li class="nav-item">
-            <a class="nav-link" href="faq.html">FAQs</a>
+            <a class="nav-link" href="../views/faq.html">FAQs</a>
         </li>
     </ul>
 </div>
 
 </nav>
 `
-
 class Header extends HTMLElement {
     constructor() {
         // Always call super first in constructor
